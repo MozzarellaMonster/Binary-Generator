@@ -1,5 +1,6 @@
 # Binary generator
 # Creates 32-bit binary input strings for my Binary Reader program
+# Created by MozzarellaMonster
 import random
 
 class binary_generator:
